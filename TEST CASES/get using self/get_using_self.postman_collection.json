@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "58c7d371-0fa6-4e50-8916-bf39672bda29",
+		"name": "get_using_self",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get_using_self/20.5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "127.0.0.1:5000/get_using_self/20.5",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"get_using_self",
+						"20.5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
