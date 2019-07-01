@@ -1,6 +1,6 @@
 NAME:MAYANK NEGI
 EMAIL_ID : MAY17SEPT@GMAIL.com
-phone number : 9599797402,9650759121
+phone number : 9599797402
 
 question source--> https://pastebin.com/Rn1W4fb1
 
